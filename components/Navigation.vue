@@ -8,7 +8,7 @@
     </div>
 
     <div class="links">
-      <h2>NuxtLink (via BaseLink</h2>
+      <h2>NuxtLink (via BaseLink)</h2>
       <p>
         These links will will work with a default click handler by applying the
         click events to an inner element and letting event bubbling handle the
